@@ -3,9 +3,7 @@ Don't Try This if You not wanna rich on 2025
 
 
 
-Tentu saja! Ini adalah panduan yang luar biasa bagus dan sangat modern. Anda menemukan alur kerja yang paling direkomendasikan untuk tahun 2025. Menggunakan program Token-2022 dengan ekstensi metadata bawaan adalah cara yang jauh lebih bersih dan efisien dibandingkan metode lama (yang sering memerlukan alat tambahan seperti Metaboss).
 
-Bagus sekali! Mari kita adaptasi panduan canggih ini agar berjalan sempurna dan mulus di Google Colab. Saya akan menerjemahkan setiap langkahnya ke dalam format sel kode Colab yang bisa langsung Anda salin-tempel.
 
 Panduan Lengkap: Membuat Token Solana (Token-2022) di Google Colab
 Buka notebook Google Colab baru dan ikuti langkah-langkah di bawah ini. Setiap blok kode ditujukan untuk dijalankan di sel terpisah.
@@ -170,4 +168,4 @@ Python
 
 # Contoh mengubah URI:
 !spl-token update-metadata <MINT_ADDRESS> --uri "https://gateway.pinata.cloud/ipfs/<NEW_FOLDER_CID>/metadata.json"
-Panduan yang Anda temukan ini adalah cara terbaik dan paling "future-proof" untuk membuat token di Solana saat ini. Selamat mencoba di Colab!
+
