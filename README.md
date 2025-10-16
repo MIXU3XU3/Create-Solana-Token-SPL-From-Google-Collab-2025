@@ -169,3 +169,7 @@ Python
 # Contoh mengubah URI:
 !spl-token update-metadata <MINT_ADDRESS> --uri "https://gateway.pinata.cloud/ipfs/<NEW_FOLDER_CID>/metadata.json"
 
+This Example on Collab 
+https://colab.research.google.com/drive/11Iy38O-yAOK_iF7kRJ-PrdCm4jzxsqjd?usp=sharing
+
+note : this just purpose only
